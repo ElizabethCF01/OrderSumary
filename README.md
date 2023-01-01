@@ -23,7 +23,7 @@ You can use any tools you like to help you complete the challenge. So if you've 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/ElizabethCF01/OrderSumary)
-- Live Site URL: [Add live site URL here]()
+- Live Site URL: [Add live site URL here](https://elizabethcf01.github.io/OrderSumary/)
 
 ### Built with
 
